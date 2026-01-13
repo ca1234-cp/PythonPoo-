@@ -18,6 +18,17 @@ g1.nome = "Cassio"
 g1.idede = 35
 print(g1.mesagem())
 
+g2 = Gafanhoto()
+g1.nome = "Jessica"
+g2.idede = 32
+print(g2.mesagem())
+
+g3 = Gafanhoto()
+g2.nome = "Ana"
+g3.idede = 35
+print(g3.mesagem())
+
+
 
 
 
